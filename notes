@@ -1,1 +1,72 @@
+Python Basics 
+
+Output is done by using print()
+Input is done by using input()
+
+
+
+
+
+python casting: 
+int()
+float()
+str()
+
+order of operations:
+      PEMDAS
+      parentheses(highest precedence)
+      Exponentiation
+      Multiplication &Division
+      Addition & substraction
+operators with the same precedence are evaluated from left to right
+
+Multiline strings: you can assign a multiline string to a variable by using three quotes:
+  a = """Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua."""
+
+print(a)
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.
+
+Escape sequences are special character combinations that allow us to represent characters that are hard/impossible to include directly in a string.
+
+
+      Some popular sequences:
+      \t: Tab Character
+      \n: Newline character (moves text after it to the next line)
+      \': Lets us represent single quotes in a string
+      \": Lets us represent double quotes in a string
+      \\: Lets us represent slashes in a string
+To get the length of a string, use the len() function.
+
+Slicing Strings: You can return a range of characters by using the slice syntax.
+Specify the start index and the end index, separated by a colon, to return a part of the string.
+  
+    b = "Hello, World!"
+      print(b[2:5]) llo
+Slicing to the end: By leaving out the end index, the range will go to the end
+  	b = "Hello, World!"
+  print(b[2:]) llo, World!
+
+Modifying Strings : upper() 
+The replace() method replaces a string with another string
+
+  a = "Hello, World!"
+    print(a.replace("H", "J")) Jello, World!
+
+To concatenate, or combine, two strings you can use the + operator. To add a space between them, add a " "
+
+
+
+
+
+
+
+
+
+
 
