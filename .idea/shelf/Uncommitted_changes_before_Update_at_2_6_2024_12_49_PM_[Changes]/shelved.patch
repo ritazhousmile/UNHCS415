@@ -1,0 +1,9 @@
+Index: welcom.py
+===================================================================
+diff --git a/welcom.py b/welcom.py
+deleted file mode 100644
+--- a/welcom.py	(revision 7ef8edf1986301850b41bc14b75680dc9cb3902b)
++++ /dev/null	(revision 7ef8edf1986301850b41bc14b75680dc9cb3902b)
+@@ -1,1 +0,0 @@
+-helelo ffffftttt
+\ No newline at end of file
