@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="string lab">
-      <change afterPath="$PROJECT_DIR$/NumberStats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="conditional lab">
+      <change afterPath="$PROJECT_DIR$/Interstate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScavengerHunt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_12_06_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_12_06_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcom.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Interstate.executor": "Run",
     "Python.NumberStats.executor": "Run",
+    "Python.ScavengerHunt.executor": "Run",
     "Python.StringLab.executor": "Run",
     "Python.WordSwitch.executor": "Run",
     "Python.averages.executor": "Run",
@@ -155,13 +158,38 @@
       <option name="project" value="LOCAL" />
       <updated>1707241727392</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="conditional lab">
+      <option name="closed" value="true" />
+      <created>1707411659587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707411659587</updated>
+    </task>
+    <task id="LOCAL-00010" summary="conditional lab">
+      <option name="closed" value="true" />
+      <created>1707411669569</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707411669569</updated>
+    </task>
+    <task id="LOCAL-00011" summary="conditional lab">
+      <option name="closed" value="true" />
+      <created>1707411684037</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707411684037</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initiate" />
     <MESSAGE value="interest lab" />
     <MESSAGE value="string lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="string lab" />
+    <MESSAGE value="conditional lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional lab" />
   </component>
 </project>
