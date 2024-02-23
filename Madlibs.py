@@ -1,4 +1,4 @@
-# Huan Zhou
+# rita Zhou
 # CS415 Quiz #1 (programming)
 # Feb 15, 2024
 

@@ -1,4 +1,4 @@
-# Huan Zhou
+# Rita Zhou
 # 2_Pay stub Assignment
 # 2/20/2024
 from datetime import datetime
