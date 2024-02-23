@@ -1,6 +1,6 @@
 # Name: Huan Zhou
 # Conditional lab assignment
-# interstate highways follow a sepcific number system
+# interstate highways follow a specific number system
 
 
 def road_direction(integer):

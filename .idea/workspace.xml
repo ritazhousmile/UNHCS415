@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="conditional lab">
-      <change afterPath="$PROJECT_DIR$/Interstate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScavengerHunt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_12_06_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_12_06_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="conditional 2 lab">
+      <change afterPath="$PROJECT_DIR$/ListLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madlibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayStub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_6_2024_12_49_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_6_2024_12_49_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interstate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interstate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +42,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Interstate.executor": "Run",
+    "Python.ListLoop.executor": "Run",
+    "Python.Madlibs.executor": "Run",
+    "Python.Menu.executor": "Run",
     "Python.NumberStats.executor": "Run",
+    "Python.PayStub.executor": "Run",
     "Python.ScavengerHunt.executor": "Run",
     "Python.StringLab.executor": "Run",
     "Python.WordSwitch.executor": "Run",
     "Python.averages.executor": "Run",
     "Python.interest.executor": "Run",
+    "Python.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -182,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707411684037</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="conditional 2 lab">
+      <option name="closed" value="true" />
+      <created>1707845589609</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707845589609</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +207,7 @@
     <MESSAGE value="interest lab" />
     <MESSAGE value="string lab" />
     <MESSAGE value="conditional lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional lab" />
+    <MESSAGE value="conditional 2 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional 2 lab" />
   </component>
 </project>
