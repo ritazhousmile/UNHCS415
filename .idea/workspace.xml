@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="conditional 2 lab">
-      <change afterPath="$PROJECT_DIR$/ListLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Madlibs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PayStub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_6_2024_12_49_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_6_2024_12_49_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="menu lab pays ub assignment">
+      <change afterPath="$PROJECT_DIR$/EscapeRoom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interstate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interstate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ritazhousmile&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b5767e07-055d-4f27-a389-b998d87a333b" />
+        <option name="url" value="https://github.com/ritazhousmile/UNHCS415.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -41,11 +49,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.EscapeRoom.executor": "Run",
     "Python.Interstate.executor": "Run",
     "Python.ListLoop.executor": "Run",
     "Python.Madlibs.executor": "Run",
     "Python.Menu.executor": "Run",
     "Python.NumberStats.executor": "Run",
+    "Python.Patterns.executor": "Run",
     "Python.PayStub.executor": "Run",
     "Python.ScavengerHunt.executor": "Run",
     "Python.StringLab.executor": "Run",
@@ -199,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707845589609</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="menu lab paysub assignment">
+      <option name="closed" value="true" />
+      <created>1708702849191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708702849191</updated>
+    </task>
+    <task id="LOCAL-00014" summary="menu lab pays ub assignment">
+      <option name="closed" value="true" />
+      <created>1708702960372</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708702960372</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +234,8 @@
     <MESSAGE value="string lab" />
     <MESSAGE value="conditional lab" />
     <MESSAGE value="conditional 2 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional 2 lab" />
+    <MESSAGE value="menu lab paysub assignment" />
+    <MESSAGE value="menu lab pays ub assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu lab pays ub assignment" />
   </component>
 </project>
