@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="menu lab pays ub assignment">
-      <change afterPath="$PROJECT_DIR$/EscapeRoom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CS415Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS415Assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +52,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BubbleSort.executor": "Run",
     "Python.EscapeRoom.executor": "Run",
     "Python.Interstate.executor": "Run",
     "Python.ListLoop.executor": "Run",
     "Python.Madlibs.executor": "Run",
     "Python.Menu.executor": "Run",
+    "Python.MinMax.executor": "Run",
     "Python.NumberStats.executor": "Run",
     "Python.Patterns.executor": "Run",
     "Python.PayStub.executor": "Run",
@@ -63,9 +68,12 @@
     "Python.averages.executor": "Run",
     "Python.interest.executor": "Run",
     "Python.practice.executor": "Run",
+    "Python.punch_timer.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -225,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708702960372</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="menu lab pays ub assignment">
+      <option name="closed" value="true" />
+      <created>1709090470230</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709090470230</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
