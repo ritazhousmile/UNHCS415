@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ea18666-9eb0-45e9-8ce5-80b7ac28bb80" name="Changes" comment="menu lab pays ub assignment">
-      <change afterPath="$PROJECT_DIR$/Checkout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawScoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringSmash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/split_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +54,8 @@
   "keyToString": {
     "Python.BubbleSort.executor": "Run",
     "Python.Checkout.executor": "Run",
+    "Python.DMV.executor": "Run",
+    "Python.DrawScoreboard.executor": "Run",
     "Python.EscapeRoom.executor": "Run",
     "Python.Interstate.executor": "Run",
     "Python.ListLoop.executor": "Run",
@@ -61,11 +67,14 @@
     "Python.PayStub.executor": "Run",
     "Python.ScavengerHunt.executor": "Run",
     "Python.StringLab.executor": "Run",
+    "Python.StringSmash.executor": "Run",
     "Python.WordSwitch.executor": "Run",
     "Python.averages.executor": "Run",
     "Python.interest.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.punch_timer.executor": "Run",
+    "Python.queue.executor": "Run",
+    "Python.split_list.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,6 +83,28 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="DrawScoreboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS415Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrawScoreboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="WordSwitch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS415Assignments" />
       <option name="ENV_FILES" value="" />
@@ -96,8 +127,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="split_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS415Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DrawScoreboard" />
+        <item itemvalue="Python.split_list" />
         <item itemvalue="Python.WordSwitch" />
       </list>
     </recent_temporary>
@@ -246,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709614246995</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="menu lab pays ub assignment">
+      <option name="closed" value="true" />
+      <created>1709691151146</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709691151146</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,5 +321,16 @@
     <MESSAGE value="menu lab paysub assignment" />
     <MESSAGE value="menu lab pays ub assignment" />
     <option name="LAST_COMMIT_MESSAGE" value="menu lab pays ub assignment" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DMV.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
